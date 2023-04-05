@@ -1,1 +1,2 @@
 [Business Plan for Password Management App.docx](https://github.com/android-app-development-course/2023-spring-Aberdeen-15-Password-Management-App/files/11090421/Business.Plan.for.Password.Management.App.docx)
+[Business Plan for Password Management App.pptx](https://github.com/android-app-development-course/2023-spring-Aberdeen-15-Password-Management-App/files/11160520/Business.Plan.for.Password.Management.App.pptx)
